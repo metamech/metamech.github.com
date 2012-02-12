@@ -1,6 +1,7 @@
 safe:       true
 pygments:   true
-lsi:        true
+lsi:        false
+markdown:   rdiscount
 
 exclude:
  - CNAME
