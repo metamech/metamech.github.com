@@ -4,4 +4,4 @@ title: Metamech
 ---
 Documentation coming soon.
 
-See project specific [documentation](/metamech).
+See the main project on GitHub: [metamech/metamech](http://github.com/metamech/metamech)
